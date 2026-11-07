@@ -1,7 +1,10 @@
 Project Objective
+
 Business Problem: Retailers face a massive surge in demand during festive seasons (like Diwali), making it critical to understand customer purchasing behavior to optimize inventory, marketing budgets, and regional logistics.
 
 Goal: To perform Exploratory Data Analysis (EDA) on transactional data to uncover key demographic trends (such as age, gender, and marital status) and high-performing product categories.
+
+Description :
 
 Sales Distribution by Gender:
 Finding: The analysis clearly indicates that female buyers significantly outnumber male buyers, accounting for the vast majority of total orders and overall sales revenue.
