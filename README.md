@@ -8,6 +8,7 @@ Description :
 
 Sales Distribution by Gender:
 Finding: The analysis clearly indicates that female buyers significantly outnumber male buyers, accounting for the vast majority of total orders and overall sales revenue.
+
 Business Takeaway: Marketing campaigns, festive discount offers, and product recommendations should be heavily tailored toward female shoppers to maximize conversion rates.
 
 Purchasing Behavior Across Age Brackets:
